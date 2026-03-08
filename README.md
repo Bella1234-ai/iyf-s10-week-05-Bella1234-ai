@@ -1,9 +1,9 @@
-# Week {Number}: {Project Title}
+# Week 3: Tools & Workflow
 
 ## Author
-- **Name:** Your Full Name
-- **GitHub:** [@MaisoriKitayama](https://github.com/MaisoriKitayama)
-- **Date:** Month Day, Year
+- **Name:**ISABELLAH NAMAEMBAH SIMIYU
+- **GitHub:** [Bella1234-ai](https://github.com/MaisoriKitayama)
+- **Date:** 03/08/2026
 
 ## Project Description
 Brief description of what you built and why.
