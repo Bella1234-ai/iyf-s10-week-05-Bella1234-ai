@@ -175,6 +175,10 @@ If you see "Access Denied," don't just blindly type sudo.
 - Pro Tip: If you just ran a long command and it failed because you forgot sudo, you can type sudo !! (pronounced "sudo bang-bang"). This runs the previous command again, but as an administrator.
 ## Screenshots (optional)
 ![Screenshot description](path/to/screenshot.png)
+<img width="670" height="176" alt="image" src="https://github.com/user-attachments/assets/c6447a97-4977-44e6-8ac6-2f6830d45565" />
+<img width="673" height="382" alt="image" src="https://github.com/user-attachments/assets/dd828b16-21be-41eb-b38c-3be936eebd50" />
+
+
 
 ## Live Demo (if deployed)
 [View Live Demo](https://your-deployed-url.com)
