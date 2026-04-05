@@ -177,6 +177,8 @@ If you see "Access Denied," don't just blindly type sudo.
 ![Screenshot description](path/to/screenshot.png)
 <img width="670" height="176" alt="image" src="https://github.com/user-attachments/assets/c6447a97-4977-44e6-8ac6-2f6830d45565" />
 <img width="673" height="382" alt="image" src="https://github.com/user-attachments/assets/dd828b16-21be-41eb-b38c-3be936eebd50" />
+<img width="723" height="367" alt="image" src="https://github.com/user-attachments/assets/ea64ff6a-3fff-4fe9-8493-75f8d7ea6665" />
+
 
 
 
